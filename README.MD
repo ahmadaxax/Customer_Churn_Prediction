@@ -64,7 +64,7 @@ A sleek, production‑ready **Customer Churn Prediction** web app built with **X
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https:git remote add origin https://github.com/Sparkydev007/customer-churn-prediction.git
+git clone https:git remote add origin https://github.com/ahmadaxax/customer-churn-prediction.git
 
 cd customer-churn-prediction
 ```
@@ -130,8 +130,7 @@ CUSTOMER-CHURN/
 
 ## 👑 Author & Ownership Statement
 
-**Prathmesh Bunde**
-Computer Science | ML | FinTech
+**Ahmad Mohamed Aslam**
 
 > *Built to impress. Optimized to perform.*
 
